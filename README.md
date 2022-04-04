@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Elmar Gasimov (@elmar-vega)
+- 👨🏻‍💻 I am a JavaScript/TypeScript Dev working pre-dominantly on the front-end
+- 📇 You can reach me on slack or by email
